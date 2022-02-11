@@ -1,0 +1,6 @@
+{
+    "debug.javascript.unmapMissingSources": true,
+    "scm.diffDecorationsIgnoreTrimWhitespace": "true",
+    "scm.repositories.visible": 20,
+    "scm.defaultViewSortKey": "name"
+}
